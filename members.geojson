@@ -23,7 +23,16 @@
         "type": "Point",
         "coordinates": [110, -7.3]
       }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "nama": "Febrian Fitryanik Susanta",
+        "alamat": "Madiun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.604161, -7.539355]
+      }
     }
-
   ]
 }
